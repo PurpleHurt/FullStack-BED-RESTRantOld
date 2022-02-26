@@ -8,6 +8,7 @@ Wireframe start
 
 Color palette chosen randomly with Coolers.co #ADA8B6, #FFEEDB, #4C3B4D, #A53860, #61C9A8
 
+places  name, city, state, cuisines, pic
 
 |Method     |Path       |Purpose
 |-----------|-----------|-------------------
